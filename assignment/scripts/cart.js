@@ -82,4 +82,5 @@ console.log(maxItem);
 // ## Assignment Submission
 // Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
  
-// **REMINDER:** Make sure to answer the Slack discussion question for this week!
+// **REMINDER:** Make sure to answer the Slack discussion question for this week!\
+//trying to push back to github. 
